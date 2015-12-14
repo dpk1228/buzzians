@@ -1,2 +1,2 @@
 # buzzians
-demo for new developers
+GIT demo for new developers 
